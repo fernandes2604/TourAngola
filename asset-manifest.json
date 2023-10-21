@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15b86e88.css",
+    "main.js": "/static/js/main.941e158e.js",
+    "static/media/Marginal.webp": "/static/media/Marginal.eeeb3bc2f1834d09ffc5.webp",
+    "static/media/praianamibe.png": "/static/media/praianamibe.954b4716b94e32330cf5.png",
+    "static/media/car3.jpg": "/static/media/car3.64eafafc6c0eed272777.jpg",
+    "static/media/car1.jpg": "/static/media/car1.4bb54492ad1a08e6a561.jpg",
+    "static/media/car2.jpg": "/static/media/car2.481875b2728ccd86409d.jpg",
+    "static/media/morrodomoco.jpg": "/static/media/morrodomoco.97f85ef9bcdb2b4efdfb.jpg",
+    "static/media/grutas.jpg": "/static/media/grutas.a9591a3a3f3005842cd3.jpg",
+    "static/media/sécatedral.jpg": "/static/media/sécatedral.b3719bd581d2023789f7.jpg",
+    "static/media/callcenter.jpg": "/static/media/callcenter.6b36d2d79a09dd8ee5a9.jpg",
+    "static/media/login.jpg": "/static/media/login.a96723c353dc429747c9.jpg",
+    "static/media/hospedagem.avif": "/static/media/hospedagem.8ed6654da3c7b2f95b96.avif",
+    "index.html": "/index.html",
+    "main.15b86e88.css.map": "/static/css/main.15b86e88.css.map",
+    "main.941e158e.js.map": "/static/js/main.941e158e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15b86e88.css",
+    "static/js/main.941e158e.js"
+  ]
+}
